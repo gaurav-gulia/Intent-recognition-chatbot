@@ -1,5 +1,5 @@
 # Intent Recognition System Development
-## Hosted Link : https://intent-recognition.streamlit.app/
+## Hosted Link : https://intent-recognition-bot.streamlit.app/
 ![image](https://github.com/gaurav-gulia/project/assets/134843684/bec119da-c092-494a-82ab-e56a6b3ae8cf)
 
 ## Objective
