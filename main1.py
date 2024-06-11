@@ -7,7 +7,7 @@ import spacy
 
 nlp = spacy.load('en_core_web_sm')
 
-with open('C:/Users/USER/Downloads/project/project/Intent.json') as f:
+with open('Intent.json') as f:
     intents = json.load(f)
 
 def preprocessing(line):
